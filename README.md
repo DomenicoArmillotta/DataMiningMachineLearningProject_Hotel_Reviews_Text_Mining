@@ -12,13 +12,18 @@ Source: https://www.kaggle.com/meetnagadia/hotel-reviews
 
 Description: The dataset contains all the hotel info needed for our application, and has a total of 26 attributes: id, status, review, categories, city, country, review date, ...
 
-##To Do List
+## To do List
 Preprocessing: 
+
 - [ ] Data Cleaning 
 - [ ] Data Reduction
+
 Frequent Pattern:
+
 - [ ] mining frequent pattern
+
 Text Analysis:
+
 - [ ] Text Analysis
 
 
