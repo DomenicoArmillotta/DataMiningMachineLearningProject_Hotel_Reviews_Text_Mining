@@ -14,8 +14,11 @@ Description: The dataset contains all the hotel info needed for our application,
 
 ##To Do List
 Preprocessing: 
--[ ] Handle Null and missing value
--[ ] Attribute selection
--[ ] Correlation analysis
+- [ ] Data Cleaning 
+- [ ] Data Reduction
+Frequent Pattern:
+- [ ] mining frequent pattern
+Text Analysis:
+- [ ] Text Analysis
 
 
