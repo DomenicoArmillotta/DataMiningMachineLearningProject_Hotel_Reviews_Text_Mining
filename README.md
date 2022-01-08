@@ -15,15 +15,30 @@ Description: The dataset contains all the hotel info needed for our application,
 ## To do List
 Preprocessing: 
 
-- [ ] Data Cleaning 
-- [ ] Data Reduction
+- [ ] Divide test set and training set
+- [ ] Removing puntuaction
+- [ ] Removing stopwords
+- [ ] Removing url
+- [ ] Lower case
+- [ ] Tokenization
+- [ ] Stemming
+- [ ] Lematization 
 
-Frequent Pattern:
+Feature Extraction:
 
-- [ ] mining frequent pattern
+- [ ] TF-IDF value dor each word
 
-Text Analysis:
+Model uilding:
 
-- [ ] Text Analysis
+- [ ] Naive Bayes
+- [ ] Linear regression
+- [ ] SVM
+- [ ] Bagging Random forest
+- [ ] Boosting
+- [ ] Compare Result and choise the best
+
+Create App:
+- [ ] Create app with Gui
+
 
 
