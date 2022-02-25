@@ -12,33 +12,5 @@ Source: https://www.kaggle.com/meetnagadia/hotel-reviews
 
 Description: The dataset contains all the hotel info needed for our application, and has a total of 26 attributes: id, status, review, categories, city, country, review date, ...
 
-## To do List
-Preprocessing: 
-
-- [ ] Divide test set and training set
-- [ ] Removing puntuaction
-- [ ] Removing stopwords
-- [ ] Removing url
-- [ ] Lower case
-- [ ] Tokenization
-- [ ] Stemming
-- [ ] Lematization 
-
-Feature Extraction:
-
-- [ ] TF-IDF value dor each word
-
-Model uilding:
-
-- [ ] Naive Bayes
-- [ ] Linear regression
-- [ ] SVM
-- [ ] Bagging Random forest
-- [ ] Boosting
-- [ ] Compare Result and choise the best
-
-Create App:
-- [ ] Create app with Gui
-
 
 
